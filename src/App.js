@@ -2,6 +2,7 @@ import About from "./components/About";
 import Developers from "./components/Developers";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
+import Subscribe from "./components/Subscribe";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Main />
       <About />
       <Developers />
+      <Subscribe />
     </div>
   );
 }
