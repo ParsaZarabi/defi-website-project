@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className='w-full h-[90px] bg-black'>
         <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
             <div>
-                <h1 className='text-[#00d8ff]'>DEFI</h1>
+                <h1 className='blue'>DEFI</h1>
             </div>
             <div className='hidden md:flex'>
                 <ul className='flex text-white items-center'>
@@ -35,7 +35,7 @@ const Navbar = () => {
                     <li className='text-2xl'>Developres</li>    
                     <li className='text-2xl'>Community</li>    
                     <li className='text-2xl'>About</li>    
-                    <button className='m-5'>Use Defi</button>   
+                    <button className='m-5 '>Use Defi</button>   
                 </ul>
             </div>
 
